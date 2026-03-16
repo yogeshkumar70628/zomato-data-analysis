@@ -71,7 +71,7 @@ The dataset includes information about restaurants such as:
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/repository-name.git
+git clone https://github.com/yogeshkumar70628/zomato-data-analysis.git
 ```
 
 2. Install required libraries
